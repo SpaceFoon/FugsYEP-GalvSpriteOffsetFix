@@ -50,6 +50,7 @@ jobs:
       tag_name: ${{ needs.prepare.outputs.tag_name }}
       files: |
         FugsYEP-GALV-SpriteOffsetFix.js
+        LICENSE
         README.md
       install_notes: |
         Enable in Plugin Manager. Order may matter relative to YEP Sprite Offset and Galv Camera Control.
