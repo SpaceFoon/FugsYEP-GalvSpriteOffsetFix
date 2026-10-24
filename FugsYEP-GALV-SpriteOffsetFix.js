@@ -4,8 +4,8 @@
 
 /*:
  * @target MV 1.63
- * @plugindesc Patch for compatibility between Galv's Cam Control and Yanfly's
- * Event Sprite Offset plugins.
+ * @plugindesc v1.0.0 Patch for compatibility between Galv's Cam Control and Yanfly's Event Sprite Offset plugins.
+ * @version 1.0.0
  * @author Fugahagen
  *
  * @help This plugin patches the compatibility issue between Galv's Cam Control
@@ -49,7 +49,7 @@
  * Version History
  * ============================================================================
  *
- * 1.0 - [3/30/2024]: Initial release
+ * 1.0.0 - [2024-03-30]: Initial release
  *
  * ============================================================================
  */
